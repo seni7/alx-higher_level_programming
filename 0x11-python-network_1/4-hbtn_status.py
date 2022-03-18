@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Check status"""
-import requests
+#import requests
 
 
 def status():
