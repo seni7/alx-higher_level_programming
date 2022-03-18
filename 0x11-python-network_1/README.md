@@ -59,4 +59,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **senait alemayhu** - [seni7](https://github.com/seni7)
